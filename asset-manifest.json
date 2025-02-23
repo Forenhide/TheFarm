@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TheFarm/static/css/main.7cb910db.css",
-    "main.js": "/TheFarm/static/js/main.13f3b4a0.js",
-    "static/media/bg2.png": "/TheFarm/static/media/bg2.e891f03b91d895a0c31e.png",
-    "static/media/bg.png": "/TheFarm/static/media/bg.11981e61f6505429b225.png",
-    "static/media/bg3.png": "/TheFarm/static/media/bg3.f15db3c68b00485f9b51.png",
-    "static/media/BG4.png": "/TheFarm/static/media/BG4.7871b2ad34e9be032975.png",
-    "static/media/BG5.png": "/TheFarm/static/media/BG5.772bec59adea473192f7.png",
+    "main.css": "/TheFarm/static/css/main.fd114bd4.css",
+    "main.js": "/TheFarm/static/js/main.85552ae8.js",
     "static/media/meal1.mp4": "/TheFarm/static/media/meal1.ed8d82076dab0dbd8c63.mp4",
     "static/media/findus.png": "/TheFarm/static/media/findus.75fd1f30e532ef87ca0a.png",
     "static/media/welcome.png": "/TheFarm/static/media/welcome.8dfdd83c68e9843259d4.png",
     "static/media/chef.png": "/TheFarm/static/media/chef.afe48fa5d569d8d57ef1.png",
     "static/media/laurels.png": "/TheFarm/static/media/laurels.e6211c2caf12266ceb44.png",
+    "static/media/bg2.jpg": "/TheFarm/static/media/bg2.6905100bfff6c08118c0.jpg",
+    "static/media/bg.jpg": "/TheFarm/static/media/bg.0c9ea716dd9504f1f9b1.jpg",
+    "static/media/bg3.jpg": "/TheFarm/static/media/bg3.0e68e68b4bb534e833da.jpg",
     "static/media/overlaybg.png": "/TheFarm/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/bg4.jpg": "/TheFarm/static/media/bg4.3a02d3ccec647b4de5e7.jpg",
+    "static/media/bg5.jpg": "/TheFarm/static/media/bg5.1eb67ca3db2581dffced.jpg",
     "static/media/gallery03.png": "/TheFarm/static/media/gallery03.4be9e09826043a91af8c.png",
     "static/media/gallery02.png": "/TheFarm/static/media/gallery02.ed485e7778f6878751cf.png",
     "static/media/menu.png": "/TheFarm/static/media/menu.2730f6c9fdafb615b20c.png",
@@ -28,11 +28,11 @@
     "static/media/spoon.svg": "/TheFarm/static/media/spoon.acfc75b326596e127e6052580bcaa9fc.svg",
     "index.html": "/TheFarm/index.html",
     "static/media/fade.svg": "/TheFarm/static/media/fade.da2b77358fa1a8f767eb78f8fb12e28b.svg",
-    "main.7cb910db.css.map": "/TheFarm/static/css/main.7cb910db.css.map",
-    "main.13f3b4a0.js.map": "/TheFarm/static/js/main.13f3b4a0.js.map"
+    "main.fd114bd4.css.map": "/TheFarm/static/css/main.fd114bd4.css.map",
+    "main.85552ae8.js.map": "/TheFarm/static/js/main.85552ae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb910db.css",
-    "static/js/main.13f3b4a0.js"
+    "static/css/main.fd114bd4.css",
+    "static/js/main.85552ae8.js"
   ]
 }
