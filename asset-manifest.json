@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TheFarm/static/css/main.fd114bd4.css",
+    "main.css": "/TheFarm/static/css/main.e77dcd1e.css",
     "main.js": "/TheFarm/static/js/main.85552ae8.js",
     "static/media/meal1.mp4": "/TheFarm/static/media/meal1.ed8d82076dab0dbd8c63.mp4",
     "static/media/findus.png": "/TheFarm/static/media/findus.75fd1f30e532ef87ca0a.png",
@@ -8,14 +8,19 @@
     "static/media/chef.png": "/TheFarm/static/media/chef.afe48fa5d569d8d57ef1.png",
     "static/media/laurels.png": "/TheFarm/static/media/laurels.e6211c2caf12266ceb44.png",
     "static/media/bg2.jpg": "/TheFarm/static/media/bg2.6905100bfff6c08118c0.jpg",
+    "static/media/bg2.webp": "/TheFarm/static/media/bg2.8c0cde5216260b34c360.webp",
     "static/media/bg.jpg": "/TheFarm/static/media/bg.0c9ea716dd9504f1f9b1.jpg",
     "static/media/bg3.jpg": "/TheFarm/static/media/bg3.0e68e68b4bb534e833da.jpg",
     "static/media/overlaybg.png": "/TheFarm/static/media/overlaybg.165362eea72d1614ae28.png",
     "static/media/bg4.jpg": "/TheFarm/static/media/bg4.3a02d3ccec647b4de5e7.jpg",
+    "static/media/bg.webp": "/TheFarm/static/media/bg.0fb10f3bf4b8240c411e.webp",
+    "static/media/bg3.webp": "/TheFarm/static/media/bg3.10ac190f57dccf0e9812.webp",
     "static/media/bg5.jpg": "/TheFarm/static/media/bg5.1eb67ca3db2581dffced.jpg",
+    "static/media/bg4.webp": "/TheFarm/static/media/bg4.47107e941f954957eb30.webp",
     "static/media/gallery03.png": "/TheFarm/static/media/gallery03.4be9e09826043a91af8c.png",
     "static/media/gallery02.png": "/TheFarm/static/media/gallery02.ed485e7778f6878751cf.png",
     "static/media/menu.png": "/TheFarm/static/media/menu.2730f6c9fdafb615b20c.png",
+    "static/media/bg5.webp": "/TheFarm/static/media/bg5.bd7ee247ba896160fbb4.webp",
     "static/media/gallery05.png": "/TheFarm/static/media/gallery05.6db95e66cb94cda3f26a.png",
     "static/media/gallery04.png": "/TheFarm/static/media/gallery04.529a37442e04bef15b29.png",
     "static/media/knife.png": "/TheFarm/static/media/knife.f75ca843ed9d9197a862.png",
@@ -28,11 +33,11 @@
     "static/media/spoon.svg": "/TheFarm/static/media/spoon.acfc75b326596e127e6052580bcaa9fc.svg",
     "index.html": "/TheFarm/index.html",
     "static/media/fade.svg": "/TheFarm/static/media/fade.da2b77358fa1a8f767eb78f8fb12e28b.svg",
-    "main.fd114bd4.css.map": "/TheFarm/static/css/main.fd114bd4.css.map",
+    "main.e77dcd1e.css.map": "/TheFarm/static/css/main.e77dcd1e.css.map",
     "main.85552ae8.js.map": "/TheFarm/static/js/main.85552ae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd114bd4.css",
+    "static/css/main.e77dcd1e.css",
     "static/js/main.85552ae8.js"
   ]
 }
