@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cbbf220.css",
+    "main.js": "/static/js/main.54a432e7.js",
+    "static/media/bg2.png": "/static/media/bg2.e891f03b91d895a0c31e.png",
+    "static/media/bg.png": "/static/media/bg.11981e61f6505429b225.png",
+    "static/media/bg3.png": "/static/media/bg3.f15db3c68b00485f9b51.png",
+    "static/media/BG4.png": "/static/media/BG4.7871b2ad34e9be032975.png",
+    "static/media/BG5.png": "/static/media/BG5.772bec59adea473192f7.png",
+    "static/media/meal1.mp4": "/static/media/meal1.ed8d82076dab0dbd8c63.mp4",
+    "static/media/findus.png": "/static/media/findus.75fd1f30e532ef87ca0a.png",
+    "static/media/welcome.png": "/static/media/welcome.8dfdd83c68e9843259d4.png",
+    "static/media/chef.png": "/static/media/chef.afe48fa5d569d8d57ef1.png",
+    "static/media/laurels.png": "/static/media/laurels.e6211c2caf12266ceb44.png",
+    "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery03.png": "/static/media/gallery03.4be9e09826043a91af8c.png",
+    "static/media/gallery02.png": "/static/media/gallery02.ed485e7778f6878751cf.png",
+    "static/media/menu.png": "/static/media/menu.2730f6c9fdafb615b20c.png",
+    "static/media/gallery05.png": "/static/media/gallery05.6db95e66cb94cda3f26a.png",
+    "static/media/gallery04.png": "/static/media/gallery04.529a37442e04bef15b29.png",
+    "static/media/knife.png": "/static/media/knife.f75ca843ed9d9197a862.png",
+    "static/media/gallery01.png": "/static/media/gallery01.56ce5e3ac7685834064f.png",
+    "static/media/award02.png": "/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/static/media/spoon.acfc75b326596e127e6052580bcaa9fc.svg",
+    "index.html": "/index.html",
+    "static/media/fade.svg": "/static/media/fade.da2b77358fa1a8f767eb78f8fb12e28b.svg",
+    "main.3cbbf220.css.map": "/static/css/main.3cbbf220.css.map",
+    "main.54a432e7.js.map": "/static/js/main.54a432e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cbbf220.css",
+    "static/js/main.54a432e7.js"
+  ]
+}
